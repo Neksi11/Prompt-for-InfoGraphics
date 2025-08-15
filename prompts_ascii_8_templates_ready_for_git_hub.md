@@ -873,39 +873,3 @@ TECHNICAL OUTPUT SPECS:
 │                                                                     │
 └─────────────────────────────────────────────────────────────────────┘
 ```
-
----
-
-# README.md (root)
-
-```md
-# Infographic Templates — Prompts + ASCII Layouts
-
-This repository contains **8 pre-designed infographic templates**, each stored as a markdown file pairing a **prompt** with an **ASCII visualization**. Use them to generate consistent, LinkedIn-ready visuals with any AI image tool.
-
-## Folders
-- `prompts/` — All template markdown files
-
-## Templates
-1. Technical Architecture Diagram
-2. Grid Concept Layout (4×5)
-3. Horizontal Comparison Chart (3-Panel)
-4. Workflow Comparison (2×2 Grid)
-5. Circular/Radial Hub Layout
-6. Timeline/Evolution Layout
-7. Ascending Staircase/Maturity Model
-8. Three-Column Architecture Comparison
-
-## How to Use
-1. Open any file in `prompts/` and copy the **Prompt** block into your image generator.
-2. Keep the **ASCII Visualization** open as a structure guide while designing.
-3. Export at **1080×1350 (4:5)**, 300 DPI, PNG for LinkedIn.
-
-## Contributing
-- Add new templates by creating a new markdown file in `prompts/` with the same structure (Prompt + ASCII Visualization).
-- Submit PRs with a preview image in your description.
-
-## License
-MIT (or your preferred license).
-```
-
